@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-deploy/static/css/main.b091facf.css",
+    "main.js": "/weather-deploy/static/js/main.a95846e8.js",
+    "static/media/sunset.jpg": "/weather-deploy/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/weather-deploy/index.html",
+    "main.b091facf.css.map": "/weather-deploy/static/css/main.b091facf.css.map",
+    "main.a95846e8.js.map": "/weather-deploy/static/js/main.a95846e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b091facf.css",
+    "static/js/main.a95846e8.js"
+  ]
+}
